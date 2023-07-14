@@ -1,13 +1,16 @@
 {
     "advisors":[
         {
-            "name":"Chi-Fu Hsiao"
+            "name":"Chi-Fu Hsiao",
+            "studio_title":"intelligence information architecture"
         },
         {
-            "name":"Ying-Chang Yu"
+            "name":"Ying-Chang Yu",
+            "studio_title":"structure architecture"
         },
         {
-            "name":"Jenny Lin"
+            "name":"Jenny Lin",
+            "studio_title":"environment architecture"
         }
     ]
 }
