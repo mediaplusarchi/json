@@ -1,6 +1,23 @@
 {
     "advisors":[
         {
+            "name":"TamKang University",
+            "type":"Facility",
+            "img_path":"assets/img/supporters/tku.png",
+        },
+        {
+            "name":"TKU Dept. Architecture",
+            "type":"Facility",
+            "img_path":"assets/img/supporters/tkua.png",
+        },
+        {
+            "name":"MOE Teacher Research Practice",
+            "type":"program",
+            "img_path":"assets/img/supporters/moe_trp.png",
+        }
+        ],
+    "advisors":[
+        {
             "name":"Chi-Fu Hsiao",
             "studio_title":"intelligence information architecture",
             "img_path":"assets/img/studios/chi-fu.png",
