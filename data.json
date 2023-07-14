@@ -2,18 +2,18 @@
         "data":{
                 "supporters":[
                     {
-                        "name":"TamKang University",
-                        "type":"Facility",
+                        "name":"TamKang",
+                        "type":"University",
                         "img_path":"assets/img/supporters/tku.png"
                     },
                     {
-                        "name":"TKU Dept. Architecture",
-                        "type":"Facility",
+                        "name":"Dept. Architecture",
+                        "type":"TamKang University",
                         "img_path":"assets/img/supporters/tkua.png"
                     },
                     {
-                        "name":"MOE Teacher Research Practice",
-                        "type":"program",
+                        "name":"Teaching Research",
+                        "type":"MOE Program",
                         "img_path":"assets/img/supporters/moe_trp.png"
                     }
                 ],
